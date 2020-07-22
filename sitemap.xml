@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.x-lab.info/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/authors/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/post/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/categories/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tags/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/technology/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/technology/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/post/writing-technical-content/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/%E6%96%B9%E5%AD%9D%E5%90%9B/</loc>
+    <lastmod>2020-06-07T16:43:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/post/jupyter/</loc>
+    <lastmod>2020-06-07T16:33:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/cloud-computing/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/cloud-computing/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/project/gitcourse/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/liuchang/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/open-source/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/open-source/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/project/</loc>
+    <lastmod>2020-06-06T14:41:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/big-data/</loc>
+    <lastmod>2020-06-05T14:02:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/big-data/</loc>
+    <lastmod>2020-06-05T14:02:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/project/hypertrons/</loc>
+    <lastmod>2020-06-05T14:02:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/zhaoshengyu/</loc>
+    <lastmod>2020-06-05T14:02:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/demo/</loc>
+    <lastmod>2020-06-01T17:05:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/demo/</loc>
+    <lastmod>2020-06-01T17:05:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/project/internal-project/</loc>
+    <lastmod>2020-06-01T17:05:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/project/external-project/</loc>
+    <lastmod>2020-05-30T17:14:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/tag/algorithm/</loc>
+    <lastmod>2020-05-29T20:46:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/category/algorithm/</loc>
+    <lastmod>2020-05-29T20:46:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/post/sort-algorithm/</loc>
+    <lastmod>2020-05-29T20:46:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication-type/1/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/harmalysis/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/ichiro-fujinaga/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication_types/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/x-lab/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication-type/0/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/doremyth/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/yuval-adler/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/claire-arthur/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/keydetection19/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/author/gabriel-vigliensoni/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/effects_of_translation/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/musical_tictactoe/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/dandelot/</loc>
+    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/docs/mumt618/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/publication/encoding_matters/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/docs/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.x-lab.info/docs/backup/</loc>
+  </url>
+  
+</urlset>
