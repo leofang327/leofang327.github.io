@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Vigliensoni | Leo&#39;s Personal Website</title>
-    <link>http://www.x-lab.info/author/gabriel-vigliensoni/</link>
-      <atom:link href="http://www.x-lab.info/author/gabriel-vigliensoni/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://leofang.cn/author/gabriel-vigliensoni/</link>
+      <atom:link href="http://leofang.cn/author/gabriel-vigliensoni/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriel Vigliensoni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 leofang</copyright><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.x-lab.info/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
+      <url>http://leofang.cn/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
       <title>Gabriel Vigliensoni</title>
-      <link>http://www.x-lab.info/author/gabriel-vigliensoni/</link>
+      <link>http://leofang.cn/author/gabriel-vigliensoni/</link>
     </image>
     
     <item>
       <title>The Effects of Translation Between Symbolic Music Formats: A Case Study with Humdrum, Lilypond, MEI, and MusicXML</title>
-      <link>http://www.x-lab.info/publication/effects_of_translation/</link>
+      <link>http://leofang.cn/publication/effects_of_translation/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.x-lab.info/publication/effects_of_translation/</guid>
+      <guid>http://leofang.cn/publication/effects_of_translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Encoding Matters</title>
-      <link>http://www.x-lab.info/publication/encoding_matters/</link>
+      <link>http://leofang.cn/publication/encoding_matters/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.x-lab.info/publication/encoding_matters/</guid>
+      <guid>http://leofang.cn/publication/encoding_matters/</guid>
       <description></description>
     </item>
     

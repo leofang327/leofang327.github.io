@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Leo&#39;s Personal Website</title>
-    <link>http://www.x-lab.info/talk/</link>
-      <atom:link href="http://www.x-lab.info/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://leofang.cn/talk/</link>
+      <atom:link href="http://leofang.cn/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 leofang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.x-lab.info/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
+      <url>http://leofang.cn/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://www.x-lab.info/talk/</link>
+      <link>http://leofang.cn/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://www.x-lab.info/talk/example/</link>
+      <link>http://leofang.cn/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://www.x-lab.info/talk/example/</guid>
+      <guid>http://leofang.cn/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
