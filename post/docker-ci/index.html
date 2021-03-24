@@ -236,7 +236,7 @@
   
   <meta property="og:site_name" content="Leo&#39;s Personal Website">
   <meta property="og:url" content="http://leofang.cn/post/docker-ci/">
-  <meta property="og:title" content="利用 Dcoker 完成项目的 CI/CD | Leo&#39;s Personal Website">
+  <meta property="og:title" content="利用 Docker 完成项目的 CI/CD | Leo&#39;s Personal Website">
   <meta property="og:description" content="Realize CI/CD in projects with docker"><meta property="og:image" content="http://leofang.cn/post/docker-ci/featured.jpeg">
   <meta property="twitter:image" content="http://leofang.cn/post/docker-ci/featured.jpeg"><meta property="og:locale" content="en-us">
   
@@ -269,7 +269,7 @@
     "@type": "WebPage",
     "@id": "http://leofang.cn/post/docker-ci/"
   },
-  "headline": "利用 Dcoker 完成项目的 CI/CD",
+  "headline": "利用 Docker 完成项目的 CI/CD",
   
   "image": [
     "http://leofang.cn/post/docker-ci/featured.jpeg"
@@ -309,7 +309,7 @@
 
 
 
-  <title>利用 Dcoker 完成项目的 CI/CD | Leo&#39;s Personal Website</title>
+  <title>利用 Docker 完成项目的 CI/CD | Leo&#39;s Personal Website</title>
 
 </head>
 
@@ -608,7 +608,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>利用 Dcoker 完成项目的 CI/CD</h1>
+  <h1>利用 Docker 完成项目的 CI/CD</h1>
 
   
   <p class="page-subtitle">Realize CI/CD in projects with docker</p>
@@ -1045,6 +1045,22 @@ services:
 </code></pre>
 <p>该命令可以自动完成包括构建镜像，(重新)创建服务，启动服务，并关联服务相关容器的一系列操作。</p>
 <p>至此，我们已经实现了项目的CI/CD，可以通过向项目push代码触发pipeline来测试整个流程。</p>
+<h1 id="appendix">Appendix:</h1>
+<ul>
+<li>查看宿主机下所有容器：</li>
+</ul>
+<pre><code class="language-bash">docker ps -a
+</code></pre>
+<ul>
+<li>停止所有容器：</li>
+</ul>
+<pre><code class="language-bash">docker stop $(docker ps -aq)
+</code></pre>
+<ul>
+<li>清除所有容器</li>
+</ul>
+<pre><code class="language-bash">docker rm $(docker ps -aq)
+</code></pre>
 
     </div>
 
@@ -1074,7 +1090,7 @@ services:
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://leofang.cn/post/docker-ci/&amp;text=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://leofang.cn/post/docker-ci/&amp;text=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1087,7 +1103,7 @@ services:
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://leofang.cn/post/docker-ci/&amp;t=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://leofang.cn/post/docker-ci/&amp;t=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1100,7 +1116,7 @@ services:
       
       
       <li>
-        <a href="mailto:?subject=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD&amp;body=http://leofang.cn/post/docker-ci/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD&amp;body=http://leofang.cn/post/docker-ci/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1113,7 +1129,7 @@ services:
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://leofang.cn/post/docker-ci/&amp;title=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://leofang.cn/post/docker-ci/&amp;title=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1126,7 +1142,7 @@ services:
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD%20http://leofang.cn/post/docker-ci/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD%20http://leofang.cn/post/docker-ci/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1139,7 +1155,7 @@ services:
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://leofang.cn/post/docker-ci/&amp;title=%e5%88%a9%e7%94%a8%20Dcoker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://leofang.cn/post/docker-ci/&amp;title=%e5%88%a9%e7%94%a8%20Docker%20%e5%ae%8c%e6%88%90%e9%a1%b9%e7%9b%ae%e7%9a%84%20CI/CD" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

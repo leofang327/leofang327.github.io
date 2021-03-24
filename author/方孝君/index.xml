@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>利用 Dcoker 完成项目的 CI/CD</title>
+      <title>利用 Docker 完成项目的 CI/CD</title>
       <link>http://leofang.cn/post/docker-ci/</link>
       <pubDate>Wed, 24 Mar 2021 08:18:13 +0800</pubDate>
       <guid>http://leofang.cn/post/docker-ci/</guid>
@@ -368,6 +368,22 @@ services:
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;该命令可以自动完成包括构建镜像，(重新)创建服务，启动服务，并关联服务相关容器的一系列操作。&lt;/p&gt;
 &lt;p&gt;至此，我们已经实现了项目的CI/CD，可以通过向项目push代码触发pipeline来测试整个流程。&lt;/p&gt;
+&lt;h1 id=&#34;appendix&#34;&gt;Appendix:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;查看宿主机下所有容器：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker ps -a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;停止所有容器：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker stop $(docker ps -aq)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;清除所有容器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker rm $(docker ps -aq)
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
