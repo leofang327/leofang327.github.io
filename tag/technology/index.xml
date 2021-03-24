@@ -43,10 +43,11 @@
 &lt;h1 id=&#34;domains&#34;&gt;Domains&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;CI机&lt;/strong&gt;：需要安装 &lt;code&gt;docker&lt;/code&gt; 和 &lt;code&gt;gitlab-runner&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;服务机&lt;/strong&gt;：需要安装 &lt;code&gt;git&lt;/code&gt; 、 &lt;code&gt;docker&lt;/code&gt; 和 &lt;code&gt;docker-compose&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;服务机&lt;/strong&gt;：需要安装 &lt;code&gt;docker&lt;/code&gt; 和 &lt;code&gt;docker-compose&lt;/code&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Gitlab&lt;/strong&gt;：用于在云端存储项目，并且需要在项目中设置 &lt;code&gt;环境变量&lt;/code&gt; 与 &lt;code&gt;gitlab-runner&lt;/code&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;阿里云容器镜像服务&lt;/strong&gt;：需要使用云商提供的容器镜像服务来构建 &lt;code&gt;远程镜像仓库&lt;/code&gt;，本文以阿里云为例。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./13.png&#34; alt=&#34;overview&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;steps&#34;&gt;Steps&lt;/h1&gt;
 &lt;h2 id=&#34;1-准备工作&#34;&gt;1. 准备工作&lt;/h2&gt;
 &lt;h3 id=&#34;11-ci机&#34;&gt;1.1 CI机&lt;/h3&gt;
